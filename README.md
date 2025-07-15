@@ -1,5 +1,3 @@
-# React + Vite
-
 # Vite Steup
 npm create vite@latest → creates a Vite project
 
@@ -11,7 +9,7 @@ npm install → installs dependencies
 
 npm run dev → starts the dev server 
 
-#About
+# About
 This project is a simple To-Do List application built using React and bundled with Vite for fast development and hot-reloading support.
 
 The app allows users to:
